@@ -1,0 +1,4 @@
+zipfile
+requests
+scikit-learn
+pandas
